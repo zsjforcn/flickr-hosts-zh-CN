@@ -5,12 +5,12 @@ Because of China's GFW, we need to specify hosts of flickr image servers. It com
 
 ## latest hosts for @Beijing CN
 
-	98.139.18.218	farm1.staticflickr.com	farm1.static.flickr.com
-	98.139.18.219	farm2.staticflickr.com	farm2.static.flickr.com
-	76.13.18.78		farm3.staticflickr.com	farm3.static.flickr.com
-	76.13.18.77		farm4.staticflickr.com	farm4.static.flickr.com
-	76.13.18.79		farm5.staticflickr.com	farm5.static.flickr.com
-	98.139.197.254	farm6.staticflickr.com	farm6.static.flickr.com
-	98.139.102.46	farm7.staticflickr.com	farm7.static.flickr.com
-	98.137.200.139	farm8.staticflickr.com	farm8.static.flickr.com
-	98.137.205.126	farm9.staticflickr.com	farm9.static.flickr.com
+	72.30.196.151	farm1.static.flickr.com farm1.staticflickr.com
+	72.30.196.152	farm2.static.flickr.com farm2.staticflickr.com
+	76.13.18.78		farm3.static.flickr.com farm3.staticflickr.com
+	76.13.18.77		farm4.static.flickr.com farm4.staticflickr.com
+	76.13.18.79		farm5.static.flickr.com farm5.staticflickr.com
+	98.139.21.45	farm6.static.flickr.com farm6.staticflickr.com
+	98.139.235.135	farm7.static.flickr.com farm7.staticflickr.com
+	72.30.198.116	farm8.static.flickr.com farm8.staticflickr.com
+	72.30.198.117	farm9.static.flickr.com farm9.staticflickr.com
