@@ -2,7 +2,6 @@
 
 Because of China's GFW, we need to specify hosts of flickr image servers. It comes to be this project.
 
-
 ## latest hosts for @Beijing CN
 
 	72.30.196.151	farm1.static.flickr.com farm1.staticflickr.com
